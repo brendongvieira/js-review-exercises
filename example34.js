@@ -1,4 +1,4 @@
-// Create an algorithm that receives three scores from a student, calculate its average and show the following messages accordingly:
+// Create an algorithm that receives three scores from a student, calculates its average and shows the following messages accordingly:
 
 // - If the average is equal or greater than 7 - Approved
 // - If the average is greater and equal to 5 and less than 7 - Retake Test
